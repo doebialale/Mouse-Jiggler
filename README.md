@@ -1,6 +1,8 @@
 # Mouse-Jiggler
 
-This is a Powershell script that turns on and off the scroll lock on your keyboard. The idea is to prevent your computer from sleeping. To use this script, do the following:
+This Mouse-Jiggler is actually a Keyboard Jiggler, but it is named Mouse Jiggler for easy recognition of what it does which is keeping your computer awake. This is a Powershell application that turns on and off the Scroll lock on your keyboard. The idea is to prevent your computer from sleeping. 
+
+To use this script, do the following:
 1. Download the MouseJigglerPowershell.ps1 file
 2. Right-click on it and select "Run with Powershell".
 
